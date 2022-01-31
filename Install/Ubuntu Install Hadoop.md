@@ -385,6 +385,13 @@ Add `environmental variable` to `~/.bashrc` file. This modifies the default `pds
     Stopping resourcemanager
 
 <br>
+
+## Now Hadoop is up and running!
+
+<img src="https://github.com/deep-woods/2022-Hadoop/blob/main/images/Hadoop_start-dfs.png" />
+
+
+<br>
 <br>
 
 ### References 
