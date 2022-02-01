@@ -228,7 +228,7 @@ Edit as follows:
 
 <br>
 
-5. `mapred-site.xml`
+5. `yarn-site.xml`
 
 Edit as follows: 
 
