@@ -228,7 +228,7 @@ Edit as follows:
 
 <br>
 
-5. `mapred-site.xml`
+5. `yarn-site.xml`
 
 Edit as follows: 
 
@@ -383,6 +383,13 @@ Add `environmental variable` to `~/.bashrc` file. This modifies the default `pds
     codingforest: Warning: Permanently added 'codingforest,192.168.xx.xxx' (ECDSA) to the list of known hosts.
     Stopping nodemanagers
     Stopping resourcemanager
+
+<br>
+
+## Now Hadoop is up and running!
+
+<img src="https://github.com/deep-woods/2022-Hadoop/blob/main/images/Hadoop_start-dfs.png" />
+
 
 <br>
 <br>
